@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'bebas neue';
+  src: url("./fonts/bebasneue/bebasneue-webfont.eot");
+  /* IE9 Compat Modes */
+  src: url("./fonts/bebasneue/bebasneue-webfont.eot?#iefix") format("embedded-opentype"), url("./fonts/bebasneue/bebasneue-webfont.woff") format("woff"), url("./fonts/bebasneue/bebasneue-webfont.ttf") format("truetype"), url("./fonts/bebasneue/bebasneue-webfont.svg#svgFontName") format("svg");
+  /* Legacy iOS */ }
+.title,
+.subtitle {
+  text-align: center; }
+
+.title {
+  margin-top: 20%;
+  font-size: 3em;
+  font-family: "bebas neue", helvetica, arial, sans-serif; }
+
+body {
+  color: #141414;
+  background: white;
+  font-size: 24px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400; }
+
+.uline {
+  display: block;
+  margin: 0 auto;
+  height: 1px;
+  width: 90%;
+  background: #141414; }
